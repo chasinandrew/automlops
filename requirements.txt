@@ -4,6 +4,9 @@ pandas==1.3.5
 pipreqs==0.4.11
 PyYAML==6.0.1
 yarg==0.1.9
+google-cloud-bigquery
+google-api-python-client
+google-cloud-automlops
 mock
 pylint
 pytest
